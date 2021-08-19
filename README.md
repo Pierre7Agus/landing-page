@@ -2,11 +2,12 @@
 
 ## Tabla de Contenidos
 
-- [Vista General](#Vista-General)
-- [Tecnologías Usadas](#tecnologias)
-- [Características](#caracteristicas)
-- [Contacto](#contacto)
+- [Vista General](#vista-general)
+- [Tecnologías Usadas](#tecnologías-usadas)
+- [Características](#características)
 - [Recursos](#recursos)
+- [Contacto](#contacto)
+
 
 <!-- vista general -->
 ## Vista General
