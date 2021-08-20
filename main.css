@@ -171,7 +171,6 @@ ul.hamburguer{
 /* caracteristicas de la moto  */
 
 .features > .features-content{
-	opacity: 1;
 	width: 80%;
 	position: absolute;
 	top: 50%;
@@ -181,7 +180,6 @@ ul.hamburguer{
 	justify-content: space-between;
 	text-align: center;
 	opacity: 0;
-	top: 50%;
 	transition: all 1.5s;
 }
 
@@ -224,19 +222,7 @@ span{
 }
 h2{
 	font-size: 2em;
-}
-
-
-	
-/*
-	color:rgb(13 110 195);
-	text-shadow: 0 0 1px rgb(13 110 195),0 0 3px rgb(13 110 195),0 0 5px rgb(13 110 195),0 0 9px rgb(13 110 195);
-*/	
-
-
-
-
-
+}		
 /*   footer  */
 .footer{
 	width: 85%;
@@ -266,7 +252,6 @@ h2{
 .footer ul li a i:hover{
 	color:rgb(13 110 195);
 }
-
 /*  circulos  */
 .circle ul li{
 	display: inline-block;
