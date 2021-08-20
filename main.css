@@ -39,11 +39,11 @@ ul{
 	}
 }
 .logo{
-	width: 80px;
 	margin-left: 4vw;
 }
 .logo img{
-	width: 90%;
+	max-width: 100%;
+	height:auto;
 	filter: contrast(60%);
 }
 .navegacion ul{
