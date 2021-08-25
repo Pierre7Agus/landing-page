@@ -11,7 +11,6 @@ dots[1].addEventListener('click',()=>{
 	elementos[2].classList.remove('opacity');
 
 });
-
 dots[0].addEventListener('click',()=>{
 	dots[0].classList.toggle('active');
 	elementos[0].classList.toggle('opacity');
@@ -21,7 +20,6 @@ dots[0].addEventListener('click',()=>{
 	dots[2].classList.remove('active');
 	elementos[2].classList.remove('opacity');
 });
-
 dots[2].addEventListener('click',()=>{
 	dots[0].classList.remove('active');
 	dots[1].classList.remove('active');
